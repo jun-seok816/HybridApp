@@ -21,7 +21,7 @@
 ## Dependence function
 
 - getSettings()
->>- WebView 사용 시 현재 WebView의 속성을 Setting으로 변경합니다 >https://sunful.tistory.com/2
+  - WebView 사용 시 현재 WebView의 속성을 Setting으로 변경합니다 >https://sunful.tistory.com/2
 
 addJavascriptInterface: 제공된 java객체를 webView에 삽입합니다. >https://developer.android.com/reference/android/webkit/WebView
 
