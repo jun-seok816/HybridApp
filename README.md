@@ -6,23 +6,22 @@
 
 ## Description 
 
-   >>>자바스크립트에서 안드로이드 메소드를 인식할 수 있게 설정하는 메소드 제공된 java객체를 WebView에 삽입합니다.
+- 자바스크립트에서 안드로이드 메소드를 인식할 수 있게 설정하는 메소드.
+- 제공된 java객체를 WebView에 삽입합니다.
             
 ## Parameter
 
->>없음
+- 없음
     
 ## Return
->>type : void
+- type : void
 
->>value : 없음
+- value : 없음
 
-
-
-    
 ## Dependence function
 
-getSettings(): WebView 사용 시 현재 WebView의 속성을 Setting으로 변경합니다 >https://sunful.tistory.com/2
+- getSettings()
+>>- WebView 사용 시 현재 WebView의 속성을 Setting으로 변경합니다 >https://sunful.tistory.com/2
 
 addJavascriptInterface: 제공된 java객체를 webView에 삽입합니다. >https://developer.android.com/reference/android/webkit/WebView
 
