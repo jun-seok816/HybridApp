@@ -4,17 +4,22 @@
 
 # initializeWebView메소드
 
-## description 
+## Description 
 
-자바스크립트에서 안드로이드 메소드를 인식할 수 있게 설정하는 메소드
+>>자바스크립트에서 안드로이드 메소드를 인식할 수 있게 설정하는 메소드
+
+>>제공된 java객체를 WebView에 삽입합니다.
             
-## parameter
+## Parameter
 
-없음
+>>없음
     
-## return value
+## Return
+>>type : void
 
-제공된 java객체를 WebView에 삽입합니다.
+>>value : 없음
+
+
 
     
 ## Dependence function
