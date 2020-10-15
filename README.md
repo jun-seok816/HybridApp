@@ -53,7 +53,9 @@ setUseWideViewPort(true or false): WebView가 "viewport"HTML 메타 태그에 �
 
 setRenderPriority( WebSettings.RenderPriority): 렌더 스레드의 우선 순위를 설정합니다.
 
-setCacheMode(int mode): 캐시가 사용되는 방식을 재정의합니다. >https://developer.android.com/reference/android/webkit/WebSettings#setPluginState(android.webkit.WebSettings.PluginState)
+setCacheMode(int mode): 캐시가 사용되는 방식을 재정의합니다. 
+> https://developer.android.com/reference/android/webkit/WebSettings#setPluginState(android.webkit.WebSettings.PluginState)
+
 
 setWebViewClient(): 다양한 알림과 요청을받을 WebViewClient를 설정합니다. 
 
