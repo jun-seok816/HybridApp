@@ -187,8 +187,10 @@
 ## Dependence function
 
 - getLatitude(): 위도를 리턴
+  - https://developer.android.com/reference/android/location/Location#getLatitude()
 
 - getLongitude(): 경도를 리턴
+  - https://developer.android.com/reference/android/location/Location#getLongitude()
 
 ## Source code 
 ```
@@ -225,8 +227,11 @@
 ## Dependence function
 
 - getLatitude(): 위도를 리턴
+  - https://developer.android.com/reference/android/location/Location#getLatitude()
 
 - getLongitude(): 경도를 리턴
+  - https://developer.android.com/reference/android/location/Location#getLongitude()
+
 
 ## Source code 
 
